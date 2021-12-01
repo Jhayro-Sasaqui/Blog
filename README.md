@@ -6,3 +6,4 @@ Esta es la página pública de Jairo Sasaqui
 📚 Recomendaré libros
 👨‍💻 Les hablaré de todos mis proyectos
 📝 y publicare cosas mias...
+*Some day
