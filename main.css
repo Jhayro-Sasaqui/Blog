@@ -28,3 +28,7 @@ body {
 .logogithub {
     width: 8%;
 }
+element.style {
+    transition: all 0.5s ease 0s;
+    transform: rotateY(0deg) rotateX(0deg);
+}
