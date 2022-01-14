@@ -8,8 +8,29 @@ body {
     align-items: center;
     justify-content: center;
     perspective: 1000px
+      
+      
+      
+      
+    min-height: 100vh;
+    font-family: Roboto, Arial;
+    color: #ADAFB6;
+    background: #171C28;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    .dribbble {
+        position: fixed;
+        display: block;
+        right: 20px;
+        bottom: 20px;
+        img {
+            display: block;
+            height: 28px;
+        }
+    }
 }
-
+//// Center & dribbble: lo de arriba
 .centrado{
   text-align:center;
   border:1px dotted #000; 
@@ -284,23 +305,4 @@ $excelColor: #2ACF62;
     }
 }
 
-// Center & dribbble
-body {
-    min-height: 100vh;
-    font-family: Roboto, Arial;
-    color: #ADAFB6;
-    background: #171C28;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    .dribbble {
-        position: fixed;
-        display: block;
-        right: 20px;
-        bottom: 20px;
-        img {
-            display: block;
-            height: 28px;
-        }
-    }
-}
+
