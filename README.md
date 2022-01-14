@@ -1,9 +1,12 @@
 # Blog
 👋 Hola 
-Esta es la página pública de Jairo Sasaqui
 🎓Aquí enseñare todo lo que aprendo
 📰 Compartire noticias  
 📚 Recomendaré libros
 👨‍💻 Les hablaré de todos mis proyectos
 📝 y publicare cosas mias...
+
+//o al menos esa es la idea :) 
+a futuro
+well
 *Some day
