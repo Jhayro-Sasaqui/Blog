@@ -99,7 +99,7 @@ $excelColor: #2ACF62;
         top: -2px;
         left: 0;
     }
-    div {
+    .elotrodiv {
         position: absolute;
         left: 0;
         right: 0;
