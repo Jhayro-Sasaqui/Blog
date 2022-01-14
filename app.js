@@ -35,3 +35,4 @@ container.addEventListener("mouseleave", (e) => {
   sizes.style.transform = "translateZ(0px)";
   purchase.style.transform = "translateZ(0px)";
 });
+//encontré el problema :)
