@@ -36,3 +36,11 @@ container.addEventListener("mouseleave", (e) => {
   purchase.style.transform = "translateZ(0px)";
 });
 //encontré el problema :)
+
+
+//movimento de archivos 📂 
+
+$('.fileAdd').on('click touch', function(e) {
+    $(this).toggleClass('open');
+    $('.tabbar').toggleClass('open');
+});
