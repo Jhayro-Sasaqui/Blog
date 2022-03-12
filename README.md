@@ -1,4 +1,5 @@
 # Blog
+![Jairo Notes Page](https://jairosaul.com/)
 👋 Hola 
 🎓Aquí enseñare todo lo que aprendo
 📰 Compartire noticias  
@@ -10,3 +11,4 @@
 a futuro
 well
 *Some day
+en teoría es lo que iba hacer...pero el trabajo Consume bastante
