@@ -1,5 +1,6 @@
 # Blog
-![Jairo Notes Page](https://jairosaul.com/)
+https://jairosaul.com
+![JoinuStudy](client\src\images\JStudyCapture.jpeg)
 👋 Hola 
 🎓Aquí enseñare todo lo que aprendo
 📰 Compartire noticias  
