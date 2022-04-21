@@ -1,6 +1,8 @@
 # Blog
 https://jairosaul.com
 ![JoinuStudy](client\src\images\JStudyCapture.jpeg)
+
+frontEditPage: http://www.diveredu.com/JoinuStudyWeb/
 👋 Hola 
 🎓Aquí enseñare todo lo que aprendo
 📰 Compartire noticias  
