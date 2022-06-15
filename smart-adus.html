@@ -8,43 +8,44 @@
     <title>Smart-Adus</title>
 </head>
 <body>
-    <div class="homePage">
+    <div class="flex-container space-between">
         <div>
-            <nav id="botones-extremos">
-                <div class="menu">
-                    <button>Menú de busqueda avanzada</button>
-                </div>
-                <div class="form">
-                    <button>anunciar</button>
-                    <form method="post" action="">
-                        <input type="file" placeholder="Foto">
-                        <input type="text" placeholder="Titulo">
-                        <input type="text" placeholder="Description">
-                        <input type="text" placeholder="Info adicional">
-                        <input type="text" placeholder="Contacto">
-                        <button>Subir anuncio</button>
-                    </form>
-                </div>
-            </nav>
+            <div class="menu">
+                <button>Menú de busqueda avanzada</button>
+            </div>
         </div>
-        <h1>💡PÚBLICA TU ANUNCIO EN INTERNET🌐</h1>
-        
-        <button>🔎Buscar</button>
-        <button>📣Públicar</button>
-        
-        <div class="categories">
-            <h2>categoria1</h2>
-            <h2>categoria1</h2>
-            <h2>categoria3</h2>
+        <div class="center">
+            <h1>💡PÚBLICA TU ANUNCIO EN INTERNET🌐</h1>
+        <div class="flex-container space-around">
+            <button>🔎Buscar</button>
+            <button>📣Públicar</button>
+        </div>
+            <div id="categories" class="flex-container space-around">
+                <h2>categoria1</h2>
+                <h2>categoria1</h2>
+                <h2>categoria3</h2>
+            </div>
+            
+            <div id="publicaciones" class="flex-container space-around">
+                <div>Ad-1</div>
+                <div>Ad-2</div>
+                <div>Ad-3</div>
+                <div>Ad-4</div>
+                <div>Ad-5</div>
+                <div>Ad-6</div>
+            </div>
         </div>
         
-        <div class="publicaciones">
-            <div>Ad-1</div>
-            <div>Ad-2</div>
-            <div>Ad-3</div>
-            <div>Ad-4</div>
-            <div>Ad-5</div>
-            <div>Ad-6</div>
+        <div class="form">
+            <button >Anunciar</button>
+                <form method="post" action="" class="flexbox-none"><br>
+                    <input type="file" placeholder="Foto"><br>
+                    <input type="text" placeholder="Titulo"><br>
+                    <input type="text" placeholder="Description"><br>
+                    <input type="text" placeholder="Info adicional"><br>
+                    <input type="text" placeholder="Contacto"><br>  
+                    <button>Subir anuncio</button>
+                </form>
         </div>
     </div>
 </body>

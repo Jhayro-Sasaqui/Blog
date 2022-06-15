@@ -13,6 +13,34 @@ body {
   }
   
   
-  #center {
+  .center {
+    text-align: center;
+  }
+
+  .flex-container {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    display: flex;
+  }
+  
+  .space-between { 
+    justify-content: space-between; 
+  }
+  
+  /* .flexbox-none {
+    display: none
+  }
+  */
+  
+  .space-around { 
+    justify-content: space-around; 
+  }
+  
+  #publicaciones {
+    margin-top: 10%
+  }
+  
+  .form {
     text-align: center;
   }
