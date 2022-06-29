@@ -41,9 +41,6 @@ body {
     box-shadow: 0 20px 50px;
 }
 
-.logogithub {
-    width: 7%;
-}
 element.style {
     transition: all 0.5s ease 0s;
     transform: rotateY(0deg) rotateX(0deg);
@@ -55,5 +52,12 @@ h3 {
 
 
  
-/*cambio de color+/
+/*cambio de color*/
+footer ul li {
+    display: inline-block;
+    /*justify-content: space-around*/
+}
 
+footer ul li a img {
+    height: 40px;
+}
