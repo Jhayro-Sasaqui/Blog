@@ -1,5 +1,5 @@
 # Blog
-https://jairosaul.com ~v2.1.0^
+https://jairosaul.com ~v2.2.0^
 ![JoinuStudy](client\src\images\JStudyCapture.jpeg)
 
 frontEditPage: http://www.diveredu.com/JoinuStudyWeb/
@@ -12,6 +12,3 @@ frontEditPage: http://www.diveredu.com/JoinuStudyWeb/
 
 //o al menos esa es la idea :) 
 a futuro
-well
-*Some day
-en teoría es lo que iba hacer...pero el trabajo Consume bastante
