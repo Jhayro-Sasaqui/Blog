@@ -1,5 +1,5 @@
 # Blog
-https://jairosaul.com ~v2.2.1^
+https://jairosaul.com ~v2.2.2^
 ![JoinuStudy](client\src\images\JStudyCapture.jpeg)
 
 frontEditPage: http://www.diveredu.com/JoinuStudyWeb/

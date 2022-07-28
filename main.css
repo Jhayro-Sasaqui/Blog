@@ -53,11 +53,12 @@ h3 {
 
  
 /*cambio de color*/
-footer ul li {
-    display: inline-block;
-    /*justify-content: space-around*/
+footer  {
+    display: flex;
+    justify-content: space-between;
 }
 
-footer ul li a img {
-    height: 40px;
+footer a img {
+    height: 50px;
 }
+
